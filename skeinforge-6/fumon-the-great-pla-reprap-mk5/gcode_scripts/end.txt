@@ -1,0 +1,6 @@
+(Beginning of end.txt)
+M104 S0
+G91
+G1 Z10
+(end of end.txt)
+
